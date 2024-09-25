@@ -1,0 +1,31 @@
+{
+  "name": "react_wohoo",
+  "version": "1.0.0",
+  "description": "My first ever react application.",
+  
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhanu-mukkamala/react_wohoo.git"
+  },
+  "keywords": [
+    "bhanu",
+    "react"
+  ],
+  "author": "Sree Bhanu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bhanu-mukkamala/react_wohoo/issues"
+  },
+  "homepage": "https://github.com/bhanu-mukkamala/react_wohoo#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  }
+}
